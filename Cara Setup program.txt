@@ -1,0 +1,3 @@
+cd Pictures\PJU\
+
+ketik: python "PJU Automation.py"
